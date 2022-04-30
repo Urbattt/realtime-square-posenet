@@ -1,0 +1,38 @@
+.heading{
+width:100%;
+margin:0px ;
+box-shadow: 5px 5px 5px blue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-weight: bold;
+}
+
+.note {
+font-size: 16px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+color:darkslateblue;
+}
+
+.copy_right_footer{
+position: fixed;
+text-align: center;
+font-size: 20px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+width:100%;
+bottom:0px ;
+background-color: aqua;
+
+}
+
+canvas{
+border: 5px;
+border-style: double;
+border-color: maroon;
+border-radius: 4px;
+box-shadow: 5px 5px 5px darkgreen;
+}
+
+video {
+margin-left: 30px;
+}
